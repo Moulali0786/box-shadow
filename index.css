@@ -1,0 +1,73 @@
+.main
+{
+    border: 6px solid ;
+    padding: 50px;
+    margin: 10px;
+    margin-right: 0px;
+    margin-left: 80px;
+    width: 30vw;
+    
+    background-color: rgb(225, 200, 200);
+    display: inline-block;
+    box-shadow: -1px 2px 5px 5px rgb(81, 190, 81) ;
+    text-align: center;
+    
+}
+h1{
+    color: aqua;
+    background-color: black;
+    width: 50vh;
+    text-align: center;
+    
+}
+
+div:hover
+{
+    color: rgb(4, 5, 4);
+    font-family:cursive;
+}
+.hello
+{
+    border: 6px ridge;
+    padding: 50px;
+    margin: 10px;
+    margin-right: 0px;
+    margin-left: 80px;
+    width: 30vw;
+    background-color: rgb(225, 200, 200);
+    display: inline-block;
+    box-shadow: 1px -2px 4px 5px red;
+    text-align: center;
+    
+}
+.hii
+{
+    border: 7px groove;
+    padding: 50px;
+    margin: 10px;
+    width: 30vw;
+    margin-right: 0px;
+    margin-left: 80px;
+    background-color: rgb(225, 200, 200);
+    display: inline-block;
+    box-shadow: -1px 2px 4px 5px rgb(158, 49, 111);
+    text-align: center;
+
+}
+hello:hover
+{
+    font-family:cursive;
+}
+.bujji
+{
+    border: 10px inset;
+    padding: 50px;
+    margin: 10px;
+    width: 30vw;
+    margin-right:0px;
+    margin-left: 80px;
+    background-color: rgb(225, 200, 200);
+    display: inline-block;
+    box-shadow: 1px -2px 6px 5px rgb(33, 16, 103);
+    text-align: center;  
+}
